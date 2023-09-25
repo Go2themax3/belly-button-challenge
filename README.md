@@ -2,6 +2,7 @@ Overview
 This interactive dashboard explores the Belly Button Biodiversity dataset, which catalogs microbes colonizing human navels, revealing insights into microbial species present in humans.
 
 Repository Structure
+
 belly-button-challenge
 │   README.md
 │   index.html
